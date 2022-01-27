@@ -1,0 +1,33 @@
+{
+  "name": "simple-http-proxy-middleware",
+  "version": "1.0.0",
+  "description": "node.js proxy middleware for connect, express, and browser-sync and is simpler than http-proxy-middleware",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mtso/simple-http-proxy-middleware.git"
+  },
+  "keywords": [
+    "proxy",
+    "middleware",
+    "http",
+    "https",
+    "connect",
+    "browser-sync",
+    "gulp-connect",
+    "react-scripts",
+    "create-react-app"
+  ],
+  "author": "mtso <~@mtso.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mtso/simple-http-proxy-middleware/issues"
+  },
+  "homepage": "https://github.com/mtso/simple-http-proxy-middleware#readme",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
